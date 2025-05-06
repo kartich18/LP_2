@@ -1,0 +1,66 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop Stand Pro X",
+            "price": 999.99,
+            "image": "assets/laptop_stand.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Smartphone X",
+            "price": 599.99,
+            "image": "assets/mobile1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Wireless Headphones",
+            "price": 149.99,
+            "image": "assets/wireless_headphones.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Smart Watch",
+            "price": 299.99,
+            "image": "assets/smartwatch.jpg"
+        },
+        {
+            "id": 5,
+            "name": "TV A",
+            "price": 299.99,
+            "image": "assets/tv1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Gaming Mouse",
+            "price": 299.99,
+            "image": "assets/gaming_mouse.jpg"
+        }
+        ,
+        {
+            "id": 7,
+            "name": "Smartphone Y",
+            "price": 299.99,
+            "image": "assets/mobile2.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Smartphone Z",
+            "price": 299.99,
+            "image": "assets/mobile3.jpg"
+        },
+        {
+            "id": 9,
+            "name": "TV B",
+            "price": 299.99,
+            "image": "assets/tv2.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Washing Macihne",
+            "price": 299.99,
+            "image": "assets/washing_machine1.jpg"
+        }
+       
+    ]
+}
